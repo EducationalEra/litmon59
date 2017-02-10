@@ -2,7 +2,7 @@
 
 * [Вступна частина](README.md)
 * [Зміст програми](zmist.md)
-* [Пояснювальна записка](poyasnuvalna_zapyska.md)
+* [Пояснювальна записка](poyasnuvalna_zapyska.md) 
    * [Ключові компетентності](klyuchovy_kompetentnosty.md)
    * [Структура програми](structura_programy.md)
 
@@ -67,9 +67,8 @@
 ### 7 Клас
 
 * [7 клас](3/7_klas.md)
-   * [Вступ](3/vstup.md)
+   * [Вступ](3/vstup.md) 
    * [Із пісенних скарбів](3/iz_pisennykh_skarbyv.md)
-       * [Суспільно-побутові пісні. Коломийки](3/suspilno_pobutovy_pisni_kolomyuki.md)
    * [Про минулі часи](3/pro_mynuli_chasy.md)
        * [Іван Франко](3/franko.md)
        * [Тарас Шевченко](3/shevchenko.md)
