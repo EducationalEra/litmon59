@@ -714,7 +714,7 @@
 		                        <b></b>
 		                    Тарас Шевченко
 		                </a>
-		            <ul class="circle">
+		            <ul type="circle">
 		        <li class="chapter " data-level="1" data-path="5/kavkaz.html">
 		                <a href="5/kavkaz.html">
 		                        <b></b>
